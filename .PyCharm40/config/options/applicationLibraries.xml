@@ -1,0 +1,88 @@
+<application>
+  <component name="libraryTable">
+    <library name="backbone-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone_backbone.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_backbone_backbone.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrap-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_bootstrap_bootstrap.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.8.0" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.8.0_jquery.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_1.8.0_jquery.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="mustache-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mustache_mustache-0.7.3.d.ts" />
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mustache_mustache.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mustache_mustache-0.7.3.d.ts" />
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_mustache_mustache.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="openlayers-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_openlayers_openlayers.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_openlayers_openlayers.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="Recline" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://D:/Frameworks/JS/okfn-recline-de2c7f1" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://D:/Frameworks/JS/okfn-recline-de2c7f1" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="underscore-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_underscore_underscore.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.PyCharm40/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_underscore_underscore.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

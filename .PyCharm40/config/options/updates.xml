@@ -1,0 +1,19 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <knownUpdateChannels>
+      <item value="pycharm" />
+      <item value="pycharm1EAP" />
+      <item value="pycharm10" />
+      <item value="pycharm2EAP" />
+      <item value="pycharm2Beta" />
+      <item value="pycharm2" />
+      <item value="pycharm3Beta" />
+      <item value="pycharm3" />
+      <item value="pycharm4EAP" />
+      <item value="pycharm4Beta" />
+      <item value="pycharm4" />
+    </knownUpdateChannels>
+    <option name="LAST_TIME_CHECKED" value="1421839734446" />
+    <option name="LAST_BUILD_CHECKED" value="PY-139.1001" />
+  </component>
+</application>

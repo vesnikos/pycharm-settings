@@ -1,0 +1,66 @@
+<application>
+  <component name="PasswordDatabase">
+    <option name="PASSWORDS">
+      <array>
+        <array>
+          <option value="85d95728dfee0dcc020c72787a1c3203a0ace3b819ac9064481ea93774a3a995" />
+          <option value="a9298e29514572a459b8bfb1ce65d6c8bed376f6a4ef2642be6b68c664a9a69d" />
+          <option value="d59ef989d5fa60ab3aa6a192c045ef8a8a32f20e2ad993d09b4ee03b26e3c022" />
+          <option value="dab227b80dc33c7cc2d56c97df50878663903343291b602065cee2c1d8d895f9" />
+          <option value="df22b4086d5bf9db787a14193102cf042ba2535cdaa83d0c4a7b88591120f1d7" />
+          <option value="f4e6dcd64fe7ddcf384d8b3db2d0043ca7088b1f1cdf5591f81ce4238a497056" />
+          <option value="f85d94ebbcb658c2d2e4c363be47bb524765f8916ed9267d797a5cab7c10f8e3" />
+          <option value="fd910871aed20d15f7f64760783e6fa5bbd81b7a146ff00791dde3fb6165df21" />
+          <option value="04641c56ff51a323789cddf4eff42b0f8d9f3b20a8346c86a69810dbb98f0143" />
+          <option value="0cc82febdd8810b6764bbc3e62101445cee8f1e2881e7f0e9d557e7e29d8ef93" />
+          <option value="157020884eeccd9247e7c772e5cd0fc8c40f9519560582c449b04def72359fdc" />
+          <option value="21a6a90077a04f753da764ace34b0d73ad7d5a3a39b280f931b8d072124d7b2e" />
+          <option value="280f8eff9d2639d26fbb183d03c247975dd07b0488d6c829ea65e19e151e12d3" />
+          <option value="2f7a4b8754cf79a6267b7a20cc870a53e0c36e08a66ca7bbb27ad2dafef66b10" />
+          <option value="3284806268a8385e5404e2f925a417074ffa4440b6bf14364f67c69897a75bfd" />
+          <option value="3a969ee4c699c922b263f3f77215b5eed52f3a2e56a34b13cf13753a7540cf64" />
+          <option value="3fe2e8f1f70dc60f219a43c5247be6cba9d4490bbd8cfcc4cb007682bf58f238" />
+          <option value="49c36c22c1a1c84a188cdb6b127aad8c028e33b4ab513d5ec39f57f250580680" />
+          <option value="57c56589580a1dbc75495c5eed7b603b6cdf559fbc1e7d38360af209d7e60f0d" />
+          <option value="64179e3545f8aef1003645ea7caa5c59a985020eab55b8527dfa6b8d4e04bcdb" />
+          <option value="684ec15a014f3ae444b7b556f517553ac7dad434a38224db683b1c535af9c252" />
+          <option value="7200f751b10a8634768099297bdb5aea236699b96ff336afa46e4d76be1dd933" />
+          <option value="7368d9371e9132dd1e080e0ec3058d563fc0cb610f8e2fd03d1f41985c36b1f0" />
+        </array>
+        <array>
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="25aeda7a5af3cb8c81634fd352293053" />
+          <option value="0e1ea5cc5e481ef389761f3dcc18c69e" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="0e1ea5cc5e481ef389761f3dcc18c69e" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="91bac6a339af2154baa1d8af31ffd9ff" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="a7cc68a489d48f4f4a56d716e00eba9531b719e452064d54e1a9ce323b56b674" />
+          <option value="8f28a45aa7f7438c65316bd32af09718" />
+          <option value="abf243c9196b4a6b3a2e911cfbd5cc81" />
+          <option value="abf243c9196b4a6b3a2e911cfbd5cc81" />
+          <option value="6c2e33460bb96121f978fd5c5fd46248" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="99d7b79fdc468b59cb81008e95c337f1" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="82203e8a2a017c949473c8ca61fcc51a" />
+          <option value="25aeda7a5af3cb8c81634fd352293053" />
+        </array>
+      </array>
+    </option>
+  </component>
+  <component name="SSHConnectionSettings">
+    <successfulAuthentication user="git@localhost" method="password" />
+    <successfulAuthentication user="nikos@10.0.31.78" method="password" />
+    <successfulAuthentication user="nikos@KT-THESS-0954" method="password" />
+    <successfulAuthentication user="nikos@localhost" method="password" />
+    <successfulAuthentication user="terp@KT-THESS-0954" method="password" />
+    <successfulAuthentication user="terp@localhost" method="password" />
+  </component>
+</application>

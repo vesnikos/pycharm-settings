@@ -1,0 +1,23 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e85f3d18-7170-4434-b465-5b55717291cd" name="genode-srv" url="http://localhost:8000">
+        <fileTransfer host="localhost" port="22" rootFolder="/home/nikos" accessType="SFTP" password="dfd2dfdddfc3dfc4dfcd" username="nikos">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="72989e52-5714-4ed2-856a-8d6a29241062" name="igis_dev" url="http://10.0.31.78">
+        <fileTransfer host="10.0.31.78" port="22" rootFolder="/home/nikos" accessType="SFTP" password="dfd2dfdddfc3dfc4dfcd" username="nikos">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ba948c3e-4375-4472-8ac5-1c07ef99c46b" name="qgis_plugin_folder" url="http://localhost">
+        <fileTransfer mountedRoot="C:\Users\vesnikos\.qgis2\python\plugins" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>

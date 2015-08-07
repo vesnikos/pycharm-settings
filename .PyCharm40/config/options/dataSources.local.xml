@@ -1,0 +1,15 @@
+<application>
+  <component name="dataSourceStorageLocal">
+    <data-source name="MAIN - PostgreSQL - gkt210@192.168.22.21" uuid="361ab260-d9b8-4f1b-868a-003881e7cc16">
+      <secret-storage>master_key</secret-storage>
+      <user-name>kt_user1028</user-name>
+      <schema-pattern>gkt210.*</schema-pattern>
+    </data-source>
+    <data-source name="BENCHMARK - PostgreSQL - @192.168.22.11" uuid="c08ac5da-de83-437a-b6dd-6f82f72e6406">
+      <secret-storage>master_key</secret-storage>
+      <user-name>kt_user1028</user-name>
+      <schema-pattern>benchmark_kt210.pg_catalog benchmark_kt210.public</schema-pattern>
+      <default-schemas>benchmark_kt210.pg_catalog benchmark_kt210.public</default-schemas>
+    </data-source>
+  </component>
+</application>

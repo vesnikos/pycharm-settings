@@ -1,0 +1,20 @@
+<application>
+  <component name="PySdkService">
+    <option name="REMOVED_SDKS">
+      <set>
+        <option value="C:\Program Files (x86)\IronPython 2.7\ipy.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\PyrSDI\ve-PyrSDI\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\PyrSDI\ve\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\VirtualEnviroments\django-ve\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\VirtualEnviroments\toga\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\django\ve\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\mSDI\mSDI-ve\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\mapfish_test\mapbender-ve\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\sandox\ve\Scripts\python.exe" />
+        <option value="C:\Users\vesnikos\PycharmProjects\virtual-envs\geonode-ve\Scripts\python.exe" />
+        <option value="Python 2.7.4 virtualenv at C:\Users\vesnikos\PycharmProjects\mSDI\.Python" />
+        <option value="ssh://nikos@10.0.31.43:22/usr/bin/python" />
+      </set>
+    </option>
+  </component>
+</application>

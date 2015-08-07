@@ -1,0 +1,412 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="osm-data-update" values="DEFAULT" collectionTime="0" />
+      <project id="markou2" values="DEFAULT" collectionTime="0" />
+      <project id="untitled" values="DEFAULT" collectionTime="0" />
+      <project id="__init__.py" values="DEFAULT" collectionTime="1436862824538" />
+      <project id="kt210_multi" values="DEFAULT" collectionTime="1438866538963" />
+      <project id="MetaSearch-dev" values="DEFAULT" collectionTime="0" />
+      <project id="django" values="DEFAULT" collectionTime="0" />
+      <project id="geopy-usecase" values="DEFAULT" collectionTime="0" />
+      <project id="pyqtGeocode" values="DEFAULT" collectionTime="0" />
+      <project id="recline_test" values="DEFAULT" collectionTime="1438235447445" />
+      <project id="django_wizard" values="DEFAULT" collectionTime="0" />
+      <project id="pg_log" values="DEFAULT" collectionTime="0" />
+      <project id="kml-pst" values="DEFAULT" collectionTime="1436778765966" />
+      <project id="test" values="DEFAULT" collectionTime="0" />
+      <project id="PyrSDI" values="DEFAULT" collectionTime="0" />
+      <project id="mapfish_test" values="DEFAULT" collectionTime="0" />
+      <project id="mapnik_render" values="DEFAULT" collectionTime="0" />
+      <project id="make-boundaries" values="DEFAULT" collectionTime="0" />
+      <project id="internalgis_harmonize_dataset" values="DEFAULT" collectionTime="0" />
+      <project id="entopoismos_prototype" values="DEFAULT" collectionTime="0" />
+      <project id="mGdal2Tiles" values="DEFAULT" collectionTime="0" />
+      <project id="google-maps-services-python" values="DEFAULT" collectionTime="1438324390016" />
+      <project id="code-examples" values="DEFAULT" collectionTime="1438764497297" />
+      <project id="dianomes_proof_of_concept" values="DEFAULT" collectionTime="1433937156540" />
+      <project id="entopismos_prototype" values="DEFAULT" collectionTime="0" />
+      <project id="internalgis_decoder_sample" values="DEFAULT" collectionTime="0" />
+      <project id="satmeta2shp" values="DEFAULT" collectionTime="0" />
+      <project id="pyqgis_maprender" values="DEFAULT" collectionTime="0" />
+      <project id="iGis_prototype" values="DEFAULT" collectionTime="0" />
+      <project id="mSDI" values="DEFAULT" collectionTime="0" />
+      <project id="igis_dev" values="DEFAULT" collectionTime="0" />
+      <project id="QtFileWatcher" values="DEFAULT" collectionTime="0" />
+      <project id="sandox" values="DEFAULT" collectionTime="0" />
+      <project id="igis" values="DEFAULT" collectionTime="0" />
+      <project id="geonde" values="DEFAULT" collectionTime="0" />
+      <project id="BigRasterHandler" values="DEFAULT" collectionTime="0" />
+      <project id="clahe_rgb" values="DEFAULT" collectionTime="0" />
+      <project id="GrassUtils.py" values="DEFAULT" collectionTime="1437458640921" />
+      <project id="base" values="DEFAULT" collectionTime="0" />
+      <project id="sandbox" values="DEFAULT" collectionTime="0" />
+      <project id="postgis-qc" values="DEFAULT" collectionTime="1436781592616" />
+      <project id="spatial-datasets" values="DEFAULT" collectionTime="0" />
+    </group>
+    <group name="module type">
+      <project id="osm-data-update" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="markou2" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="untitled" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="__init__.py" values="PYTHON_MODULE" collectionTime="1436862824398" />
+      <project id="kt210_multi" values="PYTHON_MODULE" collectionTime="1438866538729" />
+      <project id="MetaSearch-dev" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="django" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="geopy-usecase" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="pyqtGeocode" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="recline_test" values="PYTHON_MODULE" collectionTime="1438235447241" />
+      <project id="django_wizard" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="pg_log" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="kml-pst" values="PYTHON_MODULE" collectionTime="1436778765794" />
+      <project id="test" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="PyrSDI" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="mapfish_test" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="mapnik_render" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="make-boundaries" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="internalgis_harmonize_dataset" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="entopoismos_prototype" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="mGdal2Tiles" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="google-maps-services-python" values="PYTHON_MODULE" collectionTime="1438324389983" />
+      <project id="code-examples" values="PYTHON_MODULE" collectionTime="1438764497027" />
+      <project id="dianomes_proof_of_concept" values="PYTHON_MODULE" collectionTime="1433937156334" />
+      <project id="entopismos_prototype" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="internalgis_decoder_sample" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="satmeta2shp" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="pyqgis_maprender" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="iGis_prototype" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="mSDI" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="igis_dev" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="QtFileWatcher" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="sandox" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="igis" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="geonde" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="BigRasterHandler" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="clahe_rgb" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="GrassUtils.py" values="PYTHON_MODULE" collectionTime="1437458640714" />
+      <project id="base" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="sandbox" values="PYTHON_MODULE" collectionTime="0" />
+      <project id="postgis-qc" values="PYTHON_MODULE" collectionTime="1436781592584" />
+      <project id="spatial-datasets" values="PYTHON_MODULE" collectionTime="0" />
+    </group>
+    <group name="vcs">
+      <project id="satmeta2shp" values="Git" collectionTime="0" />
+      <project id="igis_dev" values="Git" collectionTime="0" />
+      <project id="geonde" values="Git" collectionTime="0" />
+      <project id="dianomes_proof_of_concept" values="Git" collectionTime="1433937156334" />
+      <project id="internalgis_decoder_sample" values="Git" collectionTime="0" />
+      <project id="postgis-qc" values="Git" collectionTime="1436781592584" />
+      <project id="code-examples" values="Git" collectionTime="1438764497027" />
+      <project id="spatial-datasets" values="Git" collectionTime="0" />
+      <project id="MetaSearch-dev" values="Git" collectionTime="0" />
+      <project id="kt210_multi" values="Git" collectionTime="1438866538729" />
+      <project id="entopismos_prototype" values="Git" collectionTime="0" />
+      <project id="igis" values="Git" collectionTime="0" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="GrassUtils.py" values="jQuery 1.8.0" collectionTime="1437458640921" />
+      <project id="igis_dev" values="jQuery 1.8,jQuery 1.8.0" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="iGis_prototype" values="Python.DjangoServer" collectionTime="0" />
+      <project id="igis_dev" values="JavascriptDebugType,Python.DjangoServer" collectionTime="0" />
+      <project id="geonde" values="Python.DjangoServer" collectionTime="0" />
+      <project id="markou2" values="PythonConfigurationType" collectionTime="0" />
+      <project id="code-examples" values="PythonConfigurationType" collectionTime="1438764497027" />
+      <project id="django_wizard" values="Python.DjangoServer" collectionTime="0" />
+      <project id="PyrSDI" values="Python.PyramidServer,tests.Unittests" collectionTime="0" />
+      <project id="entopismos_prototype" values="Python.DjangoServer" collectionTime="0" />
+      <project id="entopoismos_prototype" values="Python.DjangoServer" collectionTime="0" />
+      <project id="MetaSearch-dev" values="PyRemoteDebugConfigurationType,PythonConfigurationType" collectionTime="0" />
+      <project id="igis" values="Python.DjangoServer" collectionTime="0" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="make-boundaries" values="PythonConfigurationType" collectionTime="0" />
+      <project id="satmeta2shp" values="tests.Unittests" collectionTime="0" />
+      <project id="pyqgis_maprender" values="PythonConfigurationType" collectionTime="0" />
+      <project id="markou2" values="PythonConfigurationType" collectionTime="0" />
+      <project id="sandox" values="PythonConfigurationType" collectionTime="0" />
+      <project id="untitled" values="PythonConfigurationType" collectionTime="0" />
+      <project id="internalgis_harmonize_dataset" values="PythonConfigurationType" collectionTime="0" />
+      <project id="__init__.py" values="PythonConfigurationType" collectionTime="1436862824398" />
+      <project id="internalgis_decoder_sample" values="PythonConfigurationType" collectionTime="0" />
+      <project id="MetaSearch-dev" values="PythonConfigurationType,tests.Unittests" collectionTime="0" />
+      <project id="recline_test" values="PythonConfigurationType" collectionTime="1438235447242" />
+      <project id="sandbox" values="PythonConfigurationType" collectionTime="0" />
+      <project id="mSDI" values="PythonConfigurationType" collectionTime="0" />
+      <project id="kml-pst" values="PythonConfigurationType" collectionTime="1436778765794" />
+      <project id="pg_log" values="PythonConfigurationType" collectionTime="0" />
+      <project id="google-maps-services-python" values="PythonConfigurationType" collectionTime="1438324389983" />
+      <project id="dianomes_proof_of_concept" values="PythonConfigurationType" collectionTime="1433937156335" />
+      <project id="geopy-usecase" values="PythonConfigurationType" collectionTime="0" />
+      <project id="clahe_rgb" values="PythonConfigurationType" collectionTime="0" />
+      <project id="QtFileWatcher" values="PythonConfigurationType" collectionTime="0" />
+      <project id="kt210_multi" values="PythonConfigurationType" collectionTime="1438866538729" />
+      <project id="pyqtGeocode" values="PythonConfigurationType" collectionTime="0" />
+    </group>
+    <group name="file-type">
+      <project id="osm-data-update" values="UNKNOWN,C++,Python,XML,SQL,PLAIN_TEXT,ARCHIVE" collectionTime="0" />
+      <project id="markou2" values="Native,UNKNOWN,XML,Python,PLAIN_TEXT" collectionTime="0" />
+      <project id="untitled" values="Python,XML,PLAIN_TEXT,UNKNOWN" collectionTime="0" />
+      <project id="__init__.py" values="Python,UNKNOWN" collectionTime="1436862824413" />
+      <project id="kt210_multi" values="Images,XML,Markdown,C++,HTML,ReST,Git file,Python,JSON,PLAIN_TEXT,CSS,Locale,UNKNOWN,JavaScript,IPNB,Ini,Less,ARCHIVE" collectionTime="1438866538744" />
+      <project id="MetaSearch-dev" values="Git file,XML,HTML,PLAIN_TEXT,Markdown,Python,ARCHIVE,YAML,Images,ReST,Qt UI file,UNKNOWN" collectionTime="0" />
+      <project id="django" values="ReST,Python,PLAIN_TEXT,JSON,XML,C++,UNKNOWN" collectionTime="0" />
+      <project id="geopy-usecase" values="XML,PLAIN_TEXT,UNKNOWN,Python" collectionTime="0" />
+      <project id="pyqtGeocode" values="UNKNOWN,Python,XML,PLAIN_TEXT" collectionTime="0" />
+      <project id="recline_test" values="XML,CSS,UNKNOWN,JSCS,JavaScript,Images,Git file,YAML,Markdown,JSHint,PLAIN_TEXT,HTML,JSON" collectionTime="1438235447282" />
+      <project id="django_wizard" values="XML,Python,UNKNOWN,HTML,PLAIN_TEXT,SQLite Database,DATASOURCE_STORAGE" collectionTime="0" />
+      <project id="pg_log" values="UNKNOWN,Python,PLAIN_TEXT,XML" collectionTime="0" />
+      <project id="kml-pst" values="XML,UNKNOWN,Python,PLAIN_TEXT,Images" collectionTime="1436778765811" />
+      <project id="test" values="XML,UNKNOWN,Python,PLAIN_TEXT" collectionTime="0" />
+      <project id="PyrSDI" values="JavaScript,Images,Mako,UNKNOWN,Chameleon,XML,HTML,C++,CSS,Python,Native,ReST,PLAIN_TEXT,Locale,SourceMap,Ini,JSON" collectionTime="0" />
+      <project id="mapfish_test" values="Images,JSON,PLAIN_TEXT,UNKNOWN,SQLite Database,XML,C++,HTML,ARCHIVE,CSS,JavaScript,Python,SQL,Locale" collectionTime="0" />
+      <project id="mapnik_render" values="PLAIN_TEXT,UNKNOWN,XML" collectionTime="0" />
+      <project id="make-boundaries" values="PLAIN_TEXT,UNKNOWN,XML,Python" collectionTime="0" />
+      <project id="internalgis_harmonize_dataset" values="XML,UNKNOWN,Python,PLAIN_TEXT" collectionTime="0" />
+      <project id="entopoismos_prototype" values="XML,Python,UNKNOWN,PLAIN_TEXT" collectionTime="0" />
+      <project id="mGdal2Tiles" values="XML,PLAIN_TEXT,UNKNOWN,Python" collectionTime="0" />
+      <project id="google-maps-services-python" values="Python,UNKNOWN,XML,PLAIN_TEXT" collectionTime="1438324390016" />
+      <project id="code-examples" values="UNKNOWN,Markdown,PLAIN_TEXT,Git file,Python,XML" collectionTime="1438764497071" />
+      <project id="dianomes_proof_of_concept" values="UNKNOWN,Git file,Python,PLAIN_TEXT,Images" collectionTime="1433937156359" />
+      <project id="entopismos_prototype" values="PLAIN_TEXT,CSS,Gitignore file,Python,XML,HTML,DATASOURCE_STORAGE,UNKNOWN" collectionTime="0" />
+      <project id="internalgis_decoder_sample" values="XML,PLAIN_TEXT,JavaScript,ARCHIVE,UNKNOWN,Python,Images" collectionTime="0" />
+      <project id="satmeta2shp" values="Gitignore file,XML,PLAIN_TEXT,Python,UNKNOWN" collectionTime="0" />
+      <project id="pyqgis_maprender" values="UNKNOWN,XML,PLAIN_TEXT,Images,Python" collectionTime="0" />
+      <project id="iGis_prototype" values="SQLite Database,Python,XML,UNKNOWN,PLAIN_TEXT,DATASOURCE_STORAGE" collectionTime="0" />
+      <project id="mSDI" values="Gitignore file,Cython,HTML,Python,XML,CSS,ReST,ARCHIVE,JavaScript,Images,JSON,UNKNOWN,C++,PLAIN_TEXT" collectionTime="0" />
+      <project id="igis_dev" values="UNKNOWN,ARCHIVE,CSS,Images,PLAIN_TEXT,Gitignore file,Python,Native,Markdown,JavaScript,HTML" collectionTime="0" />
+      <project id="QtFileWatcher" values="PLAIN_TEXT,Python,XML,UNKNOWN" collectionTime="0" />
+      <project id="sandox" values="Markdown,IPNB,Cython,ReST,PLAIN_TEXT,Python,CSS,HTML,UNKNOWN,Images,LESS,XML,C++,JavaScript,JSON,Ini" collectionTime="0" />
+      <project id="igis" values="PLAIN_TEXT,HTML,Gitignore file,XML,Images,Python,JavaScript,CSS,UNKNOWN" collectionTime="0" />
+      <project id="geonde" values="JSON,HTML,PLAIN_TEXT,Python,DATASOURCE_STORAGE,XML,LESS,Images,UNKNOWN,JavaScript,Locale,CSS" collectionTime="0" />
+      <project id="BigRasterHandler" values="PLAIN_TEXT,UNKNOWN,XML" collectionTime="0" />
+      <project id="clahe_rgb" values="UNKNOWN,Images,PLAIN_TEXT,Python,XML" collectionTime="0" />
+      <project id="GrassUtils.py" values="UNKNOWN" collectionTime="1437458640751" />
+      <project id="base" values="PLAIN_TEXT,UNKNOWN,XML" collectionTime="0" />
+      <project id="sandbox" values="PLAIN_TEXT,XML,UNKNOWN,Python" collectionTime="0" />
+      <project id="postgis-qc" values="PLAIN_TEXT,XML,UNKNOWN,DATASOURCE_STORAGE,Git file,SQL" collectionTime="1436781592614" />
+      <project id="spatial-datasets" values="UNKNOWN,Markdown,ARCHIVE,PLAIN_TEXT,Git file,XML" collectionTime="0" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="iGis_prototype" values="SQLite/3.7.6.3" collectionTime="0" />
+      <project id="igis_dev" values="PostgreSQL/9.3.5" collectionTime="0" />
+      <project id="geonde" values="PostgreSQL/9.3.5" collectionTime="0" />
+      <project id="dianomes_proof_of_concept" values="PostgreSQL/9.3.6" collectionTime="1433937156539" />
+      <project id="google-maps-services-python" values="PostgreSQL/9.1.16,PostgreSQL/9.3.7" collectionTime="1438324390016" />
+      <project id="postgis-qc" values="PostgreSQL/9.3.9" collectionTime="1436781592615" />
+      <project id="kt210_multi" values="PostgreSQL/9.3.7,PostgreSQL/9.1.16" collectionTime="1438866538947" />
+      <project id="django_wizard" values="SQLite/3.7.6.3,SQLite/3.7.6.3" collectionTime="0" />
+      <project id="entopismos_prototype" values="PostgreSQL/9.3.4" collectionTime="0" />
+      <project id="MetaSearch-dev" values="PostgreSQL/9.3.5" collectionTime="0" />
+      <project id="code-examples" values="PostgreSQL/9.3.7,PostgreSQL/9.1.16" collectionTime="1438764497295" />
+    </group>
+    <group name="py-packages">
+      <project id="igis_dev" values="Django,django-extensions,django-debug-toolbar,South,GDAL,django-floppyforms,Unidecode" collectionTime="0" />
+      <project id="geonde" values="geopy" collectionTime="0" />
+      <project id="dianomes_proof_of_concept" values="PIL,matplotlib" collectionTime="1433937156427" />
+      <project id="internalgis_decoder_sample" values="enum34" collectionTime="0" />
+      <project id="code-examples" values="geopy,googlemaps" collectionTime="1438764497149" />
+      <project id="PyrSDI" values="waitress,pyramid,pyramid_debugtoolbar,pyramid_chameleon" collectionTime="0" />
+      <project id="MetaSearch-dev" values="Jinja2,geopy,OWSLib" collectionTime="0" />
+      <project id="igis" values="GDAL,Django,django-extensions" collectionTime="0" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="iGis_prototype" values="org.sqlite.JDBC" collectionTime="0" />
+      <project id="igis_dev" values="org.postgresql.Driver" collectionTime="0" />
+      <project id="geonde" values="org.postgresql.Driver" collectionTime="0" />
+      <project id="dianomes_proof_of_concept" values="org.postgresql.Driver" collectionTime="1433937156539" />
+      <project id="google-maps-services-python" values="org.postgresql.Driver,org.postgresql.Driver" collectionTime="1438324390016" />
+      <project id="postgis-qc" values="org.postgresql.Driver" collectionTime="1436781592615" />
+      <project id="kt210_multi" values="org.postgresql.Driver,org.postgresql.Driver" collectionTime="1438866538947" />
+      <project id="django_wizard" values="org.sqlite.JDBC,org.sqlite.JDBC" collectionTime="0" />
+      <project id="entopismos_prototype" values="org.postgresql.Driver" collectionTime="0" />
+      <project id="MetaSearch-dev" values="org.postgresql.Driver" collectionTime="0" />
+      <project id="code-examples" values="org.postgresql.Driver,org.postgresql.Driver" collectionTime="1438764497295" />
+    </group>
+    <group name="py-interpreter">
+      <project id="osm-data-update" values="Python 2.7.4" collectionTime="0" />
+      <project id="test" values="Python 2.7.4" collectionTime="0" />
+      <project id="untitled" values="Python 2.7.4" collectionTime="0" />
+      <project id="__init__.py" values="Python 2.7.4" collectionTime="1436862824413" />
+      <project id="kt210_multi" values="Python 2.7.3" collectionTime="1438866538744" />
+      <project id="MetaSearch-dev" values="Python 2.7.4" collectionTime="0" />
+      <project id="django" values="Python 2.7.3" collectionTime="0" />
+      <project id="geopy-usecase" values="Python 2.7.4" collectionTime="0" />
+      <project id="pyqtGeocode" values="Python 2.7.3" collectionTime="0" />
+      <project id="recline_test" values="Python 2.7.3" collectionTime="1438235447282" />
+      <project id="internalgis_decoder_sample" values="Python 2.7.3" collectionTime="0" />
+      <project id="pg_log" values="Python 2.7.3" collectionTime="0" />
+      <project id="kml-pst" values="Python 2.7.3" collectionTime="1436778765811" />
+      <project id="PyrSDI" values="Python 2.7.4" collectionTime="0" />
+      <project id="mapfish_test" values="Python 2.7.3" collectionTime="0" />
+      <project id="mapnik_render" values="Python 2.7.3" collectionTime="0" />
+      <project id="make-boundaries" values="Python 2.7.4" collectionTime="0" />
+      <project id="internalgis_harmonize_dataset" values="Python 2.7.3" collectionTime="0" />
+      <project id="entopoismos_prototype" values="Python 2.7.4" collectionTime="0" />
+      <project id="mGdal2Tiles" values="Python 2.7.4" collectionTime="0" />
+      <project id="google-maps-services-python" values="Python 2.7.3" collectionTime="1438324390016" />
+      <project id="code-examples" values="Python 2.7.4" collectionTime="1438764497075" />
+      <project id="dianomes_proof_of_concept" values="Python 2.7.3" collectionTime="1433937156362" />
+      <project id="django_wizard" values="Python 2.7.3" collectionTime="0" />
+      <project id="satmeta2shp" values="Python 2.7.4" collectionTime="0" />
+      <project id="pyqgis_maprender" values="Python 2.7.4" collectionTime="0" />
+      <project id="iGis_prototype" values="Python 2.7.3" collectionTime="0" />
+      <project id="base" values="Python 2.7.3" collectionTime="0" />
+      <project id="QtFileWatcher" values="Python 2.7.3" collectionTime="0" />
+      <project id="sandox" values="Python 2.7.3" collectionTime="0" />
+      <project id="igis" values="Python 2.7.4" collectionTime="0" />
+      <project id="geonde" values="Python 2.7.6" collectionTime="0" />
+      <project id="BigRasterHandler" values="Python 2.7.3" collectionTime="0" />
+      <project id="clahe_rgb" values="Python 2.7.3" collectionTime="0" />
+      <project id="GrassUtils.py" values="Python 2.7.4" collectionTime="1437458640754" />
+      <project id="sandbox" values="Python 2.7.3" collectionTime="0" />
+      <project id="postgis-qc" values="Python 2.7.3" collectionTime="1436781592615" />
+      <project id="spatial-datasets" values="Python 2.7.3" collectionTime="0" />
+    </group>
+    <group name="deployment server">
+      <project id="osm-data-update" values="SFTP" collectionTime="0" />
+      <project id="markou2" values="SFTP" collectionTime="0" />
+      <project id="untitled" values="SFTP" collectionTime="0" />
+      <project id="__init__.py" values="SFTP,MOUNT" collectionTime="1436862824538" />
+      <project id="kt210_multi" values="SFTP,MOUNT" collectionTime="1438866538963" />
+      <project id="MetaSearch-dev" values="MOUNT,SFTP" collectionTime="0" />
+      <project id="geopy-usecase" values="SFTP" collectionTime="0" />
+      <project id="pyqtGeocode" values="SFTP,MOUNT" collectionTime="0" />
+      <project id="recline_test" values="MOUNT,SFTP" collectionTime="1438235447445" />
+      <project id="internalgis_decoder_sample" values="SFTP" collectionTime="0" />
+      <project id="pg_log" values="SFTP" collectionTime="0" />
+      <project id="kml-pst" values="SFTP,MOUNT" collectionTime="1436778765966" />
+      <project id="test" values="SFTP" collectionTime="0" />
+      <project id="mapfish_test" values="SFTP" collectionTime="0" />
+      <project id="mapnik_render" values="SFTP,MOUNT" collectionTime="0" />
+      <project id="make-boundaries" values="SFTP" collectionTime="0" />
+      <project id="internalgis_harmonize_dataset" values="SFTP" collectionTime="0" />
+      <project id="entopoismos_prototype" values="SFTP" collectionTime="0" />
+      <project id="mGdal2Tiles" values="SFTP" collectionTime="0" />
+      <project id="django_wizard" values="SFTP" collectionTime="0" />
+      <project id="code-examples" values="SFTP,MOUNT" collectionTime="1438764497297" />
+      <project id="dianomes_proof_of_concept" values="SFTP,MOUNT" collectionTime="1433937156539" />
+      <project id="entopismos_prototype" values="SFTP" collectionTime="0" />
+      <project id="google-maps-services-python" values="MOUNT,SFTP" collectionTime="1438324390016" />
+      <project id="satmeta2shp" values="SFTP" collectionTime="0" />
+      <project id="pyqgis_maprender" values="MOUNT,SFTP" collectionTime="0" />
+      <project id="iGis_prototype" values="SFTP" collectionTime="0" />
+      <project id="igis_dev" values="SFTP" collectionTime="0" />
+      <project id="QtFileWatcher" values="SFTP" collectionTime="0" />
+      <project id="igis" values="SFTP" collectionTime="0" />
+      <project id="geonde" values="SFTP" collectionTime="0" />
+      <project id="BigRasterHandler" values="MOUNT,SFTP" collectionTime="0" />
+      <project id="clahe_rgb" values="SFTP" collectionTime="0" />
+      <project id="GrassUtils.py" values="MOUNT,SFTP" collectionTime="1437458640921" />
+      <project id="base" values="SFTP" collectionTime="0" />
+      <project id="postgis-qc" values="SFTP,MOUNT" collectionTime="1436781592616" />
+      <project id="spatial-datasets" values="SFTP,MOUNT" collectionTime="0" />
+    </group>
+    <group name="frameworks">
+      <project id="iGis_prototype" values="django" collectionTime="0" />
+      <project id="igis_dev" values="django" collectionTime="0" />
+      <project id="geonde" values="django" collectionTime="0" />
+      <project id="entopismos_prototype" values="django" collectionTime="0" />
+      <project id="django_wizard" values="django" collectionTime="0" />
+      <project id="entopoismos_prototype" values="django" collectionTime="0" />
+      <project id="igis" values="django" collectionTime="0" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="osm-data-update" values="Project,Project" collectionTime="0" />
+      <project id="markou2" values="Project,Project" collectionTime="0" />
+      <project id="untitled" values="Project,Project" collectionTime="0" />
+      <project id="__init__.py" values="Project,Project" collectionTime="1436862824538" />
+      <project id="kt210_multi" values="Project,Project" collectionTime="1438866538963" />
+      <project id="MetaSearch-dev" values="Project,Project" collectionTime="0" />
+      <project id="django" values="Project,Project" collectionTime="0" />
+      <project id="geopy-usecase" values="Project,Project" collectionTime="0" />
+      <project id="pyqtGeocode" values="Project,Project" collectionTime="0" />
+      <project id="recline_test" values="Project,Project" collectionTime="1438235447445" />
+      <project id="django_wizard" values="Project,Project" collectionTime="0" />
+      <project id="pg_log" values="Project,Project" collectionTime="0" />
+      <project id="kml-pst" values="Project,Project" collectionTime="1436778765966" />
+      <project id="test" values="Project,Project" collectionTime="0" />
+      <project id="PyrSDI" values="Project,Project" collectionTime="0" />
+      <project id="mapfish_test" values="Project,Project" collectionTime="0" />
+      <project id="mapnik_render" values="Project,Project" collectionTime="0" />
+      <project id="make-boundaries" values="Project,Project" collectionTime="0" />
+      <project id="internalgis_harmonize_dataset" values="Project,Project" collectionTime="0" />
+      <project id="entopoismos_prototype" values="Project,Project" collectionTime="0" />
+      <project id="mGdal2Tiles" values="Project,Project" collectionTime="0" />
+      <project id="google-maps-services-python" values="Project,Project" collectionTime="1438324390016" />
+      <project id="code-examples" values="Project,Project" collectionTime="1438764497297" />
+      <project id="dianomes_proof_of_concept" values="Project,Project" collectionTime="1433937156540" />
+      <project id="entopismos_prototype" values="Project,Project" collectionTime="0" />
+      <project id="internalgis_decoder_sample" values="Project,Project" collectionTime="0" />
+      <project id="satmeta2shp" values="Project,Project" collectionTime="0" />
+      <project id="pyqgis_maprender" values="Project,Project" collectionTime="0" />
+      <project id="iGis_prototype" values="Project,Project" collectionTime="0" />
+      <project id="mSDI" values="Project,Project" collectionTime="0" />
+      <project id="igis_dev" values="Project,Project,Project,Project" collectionTime="0" />
+      <project id="QtFileWatcher" values="Project,Project" collectionTime="0" />
+      <project id="sandox" values="Project,Project" collectionTime="0" />
+      <project id="igis" values="Project,Project" collectionTime="0" />
+      <project id="geonde" values="Project,Project" collectionTime="0" />
+      <project id="BigRasterHandler" values="Project,Project" collectionTime="0" />
+      <project id="clahe_rgb" values="Project,Project" collectionTime="0" />
+      <project id="GrassUtils.py" values="Project,Project,Project,Project,Project,Project,Project,Project,Project" collectionTime="1437458640921" />
+      <project id="base" values="Project,Project" collectionTime="0" />
+      <project id="sandbox" values="Project,Project,Project" collectionTime="0" />
+      <project id="postgis-qc" values="Project,Project" collectionTime="1436781592616" />
+      <project id="spatial-datasets" values="Project,Project" collectionTime="0" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="29" />
+      <entry feature="NewDirectoryProjectAction.Django" count="6" />
+      <entry feature="NewDirectoryProjectAction.HTML5 Boilerplate" count="1" />
+      <entry feature="NewDirectoryProjectAction.Pure Python" count="24" />
+      <entry feature="NewDirectoryProjectAction.Pyramid" count="1" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="7" />
+      <entry feature="execute.PyRemoteDebugConfigurationType.Debug" count="43" />
+      <entry feature="execute.Python.DjangoServer.Coverage" count="2" />
+      <entry feature="execute.Python.DjangoServer.Debug" count="243" />
+      <entry feature="execute.Python.DjangoServer.Run" count="217" />
+      <entry feature="execute.Python.PyramidServer.Coverage" count="1" />
+      <entry feature="execute.Python.PyramidServer.Debug" count="3" />
+      <entry feature="execute.Python.PyramidServer.Run" count="5" />
+      <entry feature="execute.PythonConfigurationType.Coverage" count="1" />
+      <entry feature="execute.PythonConfigurationType.Debug" count="158" />
+      <entry feature="execute.PythonConfigurationType.Profiler" count="1" />
+      <entry feature="execute.PythonConfigurationType.Run" count="2254" />
+      <entry feature="execute.tests.Coverage" count="1" />
+      <entry feature="execute.tests.Debug" count="1" />
+      <entry feature="execute.tests.Run" count="9" />
+      <entry feature="ide.help.viewingStructure.projectViews" count="1" />
+      <entry feature="ide.settings.Deployment" count="3" />
+      <entry feature="ide.settings.Django" count="9" />
+      <entry feature="ide.settings.Django_Console" count="5" />
+      <entry feature="ide.settings.File_Types" count="4" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="4" />
+      <entry feature="ide.settings.Ignored_Files" count="2" />
+      <entry feature="ide.settings.Inspections" count="2" />
+      <entry feature="ide.settings.Libraries" count="4" />
+      <entry feature="ide.settings.Project_Interpreter" count="22" />
+      <entry feature="ide.settings.Project_Structure" count="23" />
+      <entry feature="ide.settings.Python_Console" count="2" />
+      <entry feature="ide.settings.Python_External_Documentation" count="3" />
+      <entry feature="ide.settings.Python_Integrated_Tools" count="2" />
+      <entry feature="ide.settings.SQL_Dialects" count="1" />
+      <entry feature="ide.settings.SSH_Terminal" count="1" />
+      <entry feature="ide.settings.Schemas_and_DTDs" count="1" />
+      <entry feature="ide.settings.TODO" count="1" />
+      <entry feature="ide.settings.TextMate_Bundles" count="1" />
+      <entry feature="ide.settings.Vagrant" count="2" />
+      <entry feature="idea.caches.invalidated" count="10" />
+      <entry feature="ideaapp.started" count="182" />
+      <entry feature="tips.of.the.day.next" count="12" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="6" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="1" />
+      <entry feature="uml.ShowDiagram.Python" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>

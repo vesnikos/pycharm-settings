@@ -1,0 +1,63 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="upload_detail" type="HTML" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="mLeaflet.css" type="PLAIN_TEXT" />
+      <mapping pattern="more_lidar_datasets" type="PLAIN_TEXT" />
+      <mapping pattern="description.txt" type="PLAIN_TEXT" />
+      <mapping pattern=".txt" type="PLAIN_TEXT" />
+      <mapping pattern="b" type="PLAIN_TEXT" />
+      <mapping pattern="dummy" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="pth" type="PLAIN_TEXT" />
+      <removed_mapping ext="rb" type="PLAIN_TEXT" />
+      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
+      <mapping pattern="kml-networklink" type="Python" />
+      <mapping pattern="bbox_by_width" type="SQL" />
+      <mapping ext="kml" type="XML" />
+      <mapping ext="gpx" type="XML" />
+      <mapping pattern="gemspec" type="textmate" />
+      <mapping pattern="rb" type="textmate" />
+      <mapping pattern="fcgi" type="textmate" />
+      <mapping pattern="rbx" type="textmate" />
+      <mapping pattern="Thorfile" type="textmate" />
+      <mapping pattern="cgi" type="textmate" />
+      <mapping pattern="erb" type="textmate" />
+      <mapping pattern="html.erb" type="textmate" />
+      <mapping pattern="Rakefile" type="textmate" />
+      <mapping pattern="rhtml" type="textmate" />
+      <mapping pattern="Vagrantfile" type="textmate" />
+      <mapping pattern="capfile" type="textmate" />
+      <mapping pattern="Appraisals" type="textmate" />
+      <mapping pattern="rake" type="textmate" />
+      <mapping pattern="Gemfile" type="textmate" />
+      <mapping pattern="Berksfile.lock" type="textmate" />
+      <mapping pattern="irbrc" type="textmate" />
+      <mapping pattern="ru" type="textmate" />
+      <mapping pattern="prawn" type="textmate" />
+      <mapping pattern="Guardfile" type="textmate" />
+      <mapping pattern="Berksfile" type="textmate" />
+      <mapping pattern="Rantfile" type="textmate" />
+      <mapping pattern="rjs" type="textmate" />
+      <mapping ext="rb" type="textmate" />
+      <mapping ext="prawn" type="textmate" />
+      <mapping ext="capfile" type="textmate" />
+      <mapping ext="ru" type="textmate" />
+      <mapping ext="html.erb" type="textmate" />
+      <mapping ext="gemspec" type="textmate" />
+      <mapping ext="erb" type="textmate" />
+      <mapping ext="rbx" type="textmate" />
+      <mapping ext="rake" type="textmate" />
+      <mapping ext="cgi" type="textmate" />
+      <mapping ext="fcgi" type="textmate" />
+      <mapping ext="rhtml" type="textmate" />
+      <mapping ext="rjs" type="textmate" />
+      <mapping ext="irbrc" type="textmate" />
+    </extensionMap>
+  </component>
+</application>

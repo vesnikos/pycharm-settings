@@ -1,0 +1,594 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.3 virtualenv at C:\Users\vesnikos\PycharmProjects\sandox\ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\sandox\ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1607474484" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.3 virtualenv at C:\Users\vesnikos\PycharmProjects\sandox\ve (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\sandox\ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/sandox/ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1607474484" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/sandox" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.3 virtualenv at C:\Users\vesnikos\PycharmProjects\django\ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\django\ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/500759098" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.3 virtualenv at C:\Users\vesnikos\PycharmProjects\django\ve (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\django\ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django/ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/500759098" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/django" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.3 virtualenv at C:\Users\vesnikos\PycharmProjects\kt210_multi\ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\kt210_multi\ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/77519859" />
+            <root type="simple" url="file://C:/mapnik-v2.2.0/python/2.7/site-packages" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional>
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/PycharmProjects/kt210_multi/ve/Lib" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/PycharmProjects/kt210_multi/ve/Scripts" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/PycharmProjects/kt210_multi/ve/Lib/site-packages" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/PycharmProjects/kt210_multi/ve" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.3 (C:\Python27\ArcGIS10.2\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Python27\ArcGIS10.2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://C:/mapnik-v2.2.0/python/2.7/site-packages" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/site-packages" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/bin" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/arcpy" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/ArcToolbox/Scripts" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1248084663" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.4 virtualenv at C:\Users\vesnikos\PycharmProjects\mSDI\mSDI-ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\mSDI\mSDI-ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mSDI/mSDI-ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mSDI/mSDI-ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mSDI/mSDI-ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mSDI/mSDI-ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1509879490" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.4 virtualenv at C:\Users\vesnikos\PycharmProjects\PyrSDI\ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\PyrSDI\ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1611104238" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.4 virtualenv at C:\Users\vesnikos\PycharmProjects\PyrSDI\ve (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\PyrSDI\ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1611104238" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PyrSDI" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.4 virtualenv at C:\Users\vesnikos\PycharmProjects\PyrSDI\ve-PyrSDI" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\PyrSDI\ve-PyrSDI\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1499501826" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.4 virtualenv at C:\Users\vesnikos\PycharmProjects\PyrSDI\ve-PyrSDI (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\PyrSDI\ve-PyrSDI\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/PyrSDI/ve-PyrSDI/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1499501826" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PyrSDI" />
+    </jdk>
+    <jdk version="2">
+      <name value="geonode-ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\virtual-envs\geonode-ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1531148531" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/pycsw-1.10.0-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/Shapely-1.3.1-py2.7-win32.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/pyproj-1.9.3-py2.7-win32.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/lxml-3.3.5-py2.7-win32.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geolinks-0.0.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/pytz-2014.10-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/python_dateutil-2.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/six-1.8.0-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode-2.4b7-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_bootstrap3_datetimepicker-2.2.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/pyelasticsearch-0.6.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_haystack-2.1.0-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/owslib-0.8.10-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/gisdata-0.5.4-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/gsimporter-0.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/gsconfig-0.6.11-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode_dialogos-0.4-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode_notification-1.1.1-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode_arcrest-10.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode_user_accounts-1.0.9-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode_announcements-1.0.5-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode_avatar-2.1.3-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/geonode_user_messages-0.1.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_geoexplorer-4.0.4-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_modeltranslation-0.8-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_autocomplete_light-1.4.14-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_leaflet-0.13.7-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_polymorphic-0.5.6-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_tastypie-0.11.0-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_downloadview-1.2-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_activity_stream-0.4.5b1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_friendly_tag_loader-1.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_forms_bootstrap-2.0.3.post1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/pinax_theme_bootstrap_account-1.0b2-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/pinax_theme_bootstrap-3.0a11-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_guardian-1.2.0-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_mptt-0.6.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_taggit-0.12-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_extensions-1.2.5-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_jsonfield-0.9.12-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_pagination-1.0.7-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/django_nose-1.2-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/nose-1.0.0-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/virtual-envs/geonode-ve/Lib/site-packages/paver-1.2.1-py2.7.egg" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.3 virtualenv at C:\Users\vesnikos\PycharmProjects\mapfish_test\mapbender-ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\mapfish_test\mapbender-ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/setuptools-0.6c11-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/pip-6.0.6-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/mapfish-2.2-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/geoalchemy-0.6-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/geojson-1.0.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/pylons-1.0-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/sqlalchemy-0.7.1-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/simplejson-2.1.1-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/tempita-0.4-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/webtest-1.2.1-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/weberror-0.10.2-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/webob-0.9.8-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/mako-0.3.2-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/nose-0.11.3-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/decorator-3.3.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/formencode-1.2.2-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/pastescript-1.7.3-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/pastedeploy-1.3.3-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/paste-1.7.3.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/beaker-1.5.4-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/webhelpers-1.0rc1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/routes-1.12.3-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/pygments-1.3.1-py2.7.egg" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/mapfish.plugin.client-0.2-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages/jstools-0.1.5-py2.7.egg!/" />
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/DLLs" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/mapfish_test/mapbender-ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1474085521" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://nikos@localhost:3022/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://nikos@localhost:3022/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-850881108" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/1727478806" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-1676341222" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="localhost" PORT="3022" ANONYMOUS="false" USERNAME="nikos" PASSWORD="dfd2dfdddfc3dfc4dfcd" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/nikos/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/1727478806" remote-root="/usr/lib/python2.7/dist-packages/PILcompat" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/-850881108/-1676341222" remote-root="/usr/lib/pymodules/python2.7" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.3 virtualenv at C:\Users\vesnikos\PycharmProjects\VirtualEnviroments\django-ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.3" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\VirtualEnviroments\django-ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/VirtualEnviroments/django-ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/VirtualEnviroments/django-ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/VirtualEnviroments/django-ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/VirtualEnviroments/django-ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/478190252" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/VirtualEnviroments/django-ve/Lib/site-packages/psycopg2-2.5.4-py2.7-win32.egg" />
+            <root type="simple" url="jar://$USER_HOME$/PycharmProjects/VirtualEnviroments/django-ve/Lib/site-packages/MySQL_python-1.2.5-py2.7-win32.egg!/" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.4 virtualenv at C:\Users\vesnikos\PycharmProjects\django-ve" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\Users\vesnikos\PycharmProjects\django-ve\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django-ve/Lib" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django-ve/Scripts" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django-ve" />
+            <root type="simple" url="file://$USER_HOME$/PycharmProjects/django-ve/Lib/site-packages" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/281904380" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="r igis_dev" />
+      <type value="Python SDK" />
+      <homePath value="ssh://nikos@10.0.31.78:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-685008599" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-685008599/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-685008599/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-685008599/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-685008599/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/-685008599/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/201544331" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/724150857" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/-1227933812" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/-125940560" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="10.0.31.78" PORT="22" ANONYMOUS="false" USERNAME="nikos" PASSWORD="dfd2dfdddfc3dfc4dfcd" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/nikos/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm40/system/remote_sources/1539509558/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.4 (C:\OSGeo4W\bin\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.4" />
+      <homePath value="C:\OSGeo4W\bin\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/OSGeo4W/apps/Python27/Lib/site-packages/setuptools-1.1.5-py2.7.egg!/" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/qgis/python" />
+            <root type="simple" url="file://C:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://C:/mapnik-v2.2.0/python/2.7/site-packages" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/DLLs" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/lib-tk" />
+            <root type="simple" url="file://C:/OSGeo4W/bin" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/PIL" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/jinja2-2.7.2-py2.7.egg" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/markupsafe-0.23-py2.7-win32.egg" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/python_dateutil-2.2-py2.7.egg" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://C:/OSGeo4W/apps/Python27/Lib/site-packages/wx-2.8-msw-unicode" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/1195211391" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.2/Lib/site-packages" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/bin" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/arcpy" />
+            <root type="simple" url="file://C:/Program Files (x86)/ArcGIS/Desktop10.2/ArcToolbox/Scripts" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
